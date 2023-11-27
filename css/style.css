@@ -304,4 +304,10 @@ nav .nav-item .active{
     right: 5px;
     bottom: 10px;
 }
+@media(max-width:767px){
+    .page .image{
+    width: auto;
+    height: auto;
+    }
+}
 /* end page  */
