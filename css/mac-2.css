@@ -54,7 +54,7 @@ nav .nav-item .active{
 /* start card  */
 label {
     display: block;
-    width: 380px;
+    width: 350px;
     height: 400px;
     perspective: 1000px;
     transform-style: preserve-3d;
@@ -112,7 +112,7 @@ label:hover :checked + .flip-card {
 }
 
 .front img {
-	width: 380px;
+	width: 350px;
 	height: 250px;
 	margin: 0px 0 20px 0;
 	object-fit: contain;
