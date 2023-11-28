@@ -54,7 +54,7 @@ nav .nav-item .active{
 /* start card  */
 label {
     display: block;
-    width: 380px;
+    width: 350px;
     height: 400px;
     perspective: 1000px;
     transform-style: preserve-3d;
@@ -114,7 +114,11 @@ label:hover :checked + .flip-card {
 }
 
 .front img {
+<<<<<<< HEAD
 	width: inherit;
+=======
+	width: 350px;
+>>>>>>> 5cf200946f80902807fc624d92fca5a7b84b744e
 	height: 250px;
 	object-fit: cover;
   object-position: center;
@@ -153,6 +157,7 @@ hr {
 }
 
 /* end card  */
+<<<<<<< HEAD
 .cards {
   position: relative;
   background-color: #000;
@@ -214,3 +219,5 @@ hr {
   animation: rotBGimg 4.5s linear infinite;
 }
 
+=======
+>>>>>>> 5cf200946f80902807fc624d92fca5a7b84b744e
