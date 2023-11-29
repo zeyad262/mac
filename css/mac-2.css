@@ -160,8 +160,8 @@ hr {
     background-color: white;
 }
 .page .image{
-    width: 500px;
-    height: 120px;
+    width: 550px;
+    height: 180px;
     object-fit: cover;
 }
 .page .image img{
@@ -169,6 +169,7 @@ hr {
     height: 100%;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    object-fit: cover;
 }
 .page a{
     text-decoration: none;
